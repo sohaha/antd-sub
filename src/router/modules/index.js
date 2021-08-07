@@ -1,4 +1,4 @@
-import Main from '@/views/Home';
+import Main from '@/views/home';
 
 export default {
   name: `子应用`,
